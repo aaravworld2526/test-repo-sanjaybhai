@@ -15,12 +15,14 @@ rg-name = {
         name="rg-raju2"
           location= "westus"   
      }
+
         rg4= {
         name="rg-raju3"
           location= "centralindia"   
      }
-       rg4= {
-        name="rg-raju3"
+  
+       rg5= {
+        name="rg-raju4"
           location= "centralindia"   
      }
 }
