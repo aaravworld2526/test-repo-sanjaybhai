@@ -21,8 +21,8 @@ rg-name = {
           location= "centralindia"   
      }
   
-       rg5= {
-        name="rg-raju4"
+       rg6= {
+        name="rg-raju5"
           location= "centralindia"   
      }
 }
