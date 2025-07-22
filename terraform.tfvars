@@ -9,18 +9,10 @@ rg-name = {
           location= "westus"
       }
 
-     rg2= {
-        name="rg-raju1"
-          location= "westus"   
 
-     }
-      rg3= {
-        name="rg-raju3"
-          location= "westus"   
-
-     }
+ 
        rg3= {
-        name="rg-raju5"
+        name="rg-raju2"
           location= "westus"   
      }
 }
