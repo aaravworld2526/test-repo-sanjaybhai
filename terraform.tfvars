@@ -7,9 +7,15 @@ rg-name = {
       rg2={
           name="rg-raju1"
           location= "westus"
+      }
 
      rg2= {
         name="rg-raju1"
+          location= "westus"   
+
+     }
+      rg3= {
+        name="rg-raju3"
           location= "westus"   
 
      }
